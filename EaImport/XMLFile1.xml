@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+  <xmi:Documentation exporter="Enterprise Architect" exporterVersion="6.5"/>
+  <uml:Model xmi:type="uml:Model" name="EA_Model" visibility="public">
+    <packagedElement xmi:type="uml:Package" xmi:id="EAPK_208128E3_6DEA_4ece_90FE_4B4C58C25549" name="Class Model" visibility="public">
+      <packagedElement xmi:type="uml:Class" xmi:id="EAID_85121098_E027_4a82_ACDB_F5771D1998DA" name="Class1" visibility="public">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="EAID_2F3E9BFE_7F66_4ab6_BDB6_F764F67C87FE" name="Prop2" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
+        </ownedAttribute>
+        <generalization xmi:type="uml:Generalization" xmi:id="EAID_80F022B1_2C22_4ac2_864F_BCDBAD9B89E7" general="EAID_92AE7CB3_831F_4a29_ABFB_30AE7E39B63A"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="EAID_92AE7CB3_831F_4a29_ABFB_30AE7E39B63A" name="Class2" visibility="public">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="EAID_B8A8526F_1A9C_49c5_8DEC_AE546F181495" name="Prop1" visibility="public" isStatic="false" isReadOnly="false" isDerived="false" isOrdered="false" isUnique="true" isDerivedUnion="false">
+        </ownedAttribute>
+      </packagedElement>
+    </packagedElement>
+  </uml:Model>
+</xmi:XMI>
